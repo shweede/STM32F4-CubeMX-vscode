@@ -191,7 +191,7 @@
             "type": "shell",
             "command": "xdg-open",
             "args": [
-                "discovery_board.ioc"
+                "STM32F4-CubeMX-vscode.ioc"
             ],
             "presentation": {
                 "focus": false

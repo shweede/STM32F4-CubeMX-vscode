@@ -3,7 +3,7 @@
     "ABOUT2": "User should not edit this fields, instead it should edit 'c_cpp_properties.json'",
     "ABOUT3": "This file is regenerated on 'Update workspace' task.",
     "VERSION": "1.7",
-    "LAST_RUN": "2020-01-19 19:01:27.786515",
+    "LAST_RUN": "2020-01-26 13:18:31.191503",
     "cSources": [
         "Src/main.c",
         "Src/usb_host.c",
@@ -117,7 +117,7 @@
     ],
     "buildDir": "build",
     "targetExecutablePath": "build/discovery_board.elf",
-    "cubeMxProjectPath": "discovery_board.ioc",
+    "cubeMxProjectPath": "STM32F4-CubeMX-vscode.ioc",
     "openOcdConfig": [
         ".vscode/stm32f4x.cfg"
     ],
